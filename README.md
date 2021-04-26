@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LemmyTech
+- 👀 ReadMes
+- 🌱 ReadMes are
+- 💞️ ReadMes are boring
+- 📫 ReadMes
