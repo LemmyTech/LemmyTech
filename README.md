@@ -9,7 +9,7 @@ Here's a cool table I made
 Language|Good
 |---|---|
 |Not PHP|Yes|
-|PHP|Yes ^ 1;|
+|PHP|(bool) Yes ^ 1;|
 
 Here's a cool code block I made
 
