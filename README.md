@@ -10,3 +10,12 @@ Language|Good
 |---|---|
 |Not PHP|Yes|
 |PHP|!Yes|
+
+Here's a cool code block I made
+
+```python
+import re
+yourAddress = "https://washington.dc?street=pennsylvania_avenue?num=1600"
+regex = "^[(http)(https)]://[.]+.[.]+.[.]+?[.]+$"
+print(re.sub(regex, "", yourAddress)
+```
