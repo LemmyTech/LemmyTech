@@ -2,7 +2,7 @@
 - 👀 ReadMes
 - 🌱 ReadMes are
 - 💞️ ReadMes are boring
-- 📫 ReadMes
+- 💰 $DOGE to the moon
 
 Here's a cool table I made
 
