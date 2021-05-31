@@ -10,6 +10,7 @@ Language|Good
 |---|---|
 |Not PHP|Yes|
 |PHP|(bool) Yes ^ 1;|
+|Angular|N O|
 
 Here's a cool code block I made
 
